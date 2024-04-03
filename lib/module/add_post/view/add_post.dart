@@ -10,6 +10,8 @@ class AddPost extends StatefulWidget {
 class _AddPostState extends State<AddPost> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return const Scaffold(
+        // body: getphotoFromGallary(),
+        );
   }
 }

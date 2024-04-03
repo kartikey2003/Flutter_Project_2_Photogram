@@ -28,7 +28,7 @@ class _SplashscreenState extends State<Splashscreen> {
             (route) => false);
       }
     });
-    // TODO: implement initState
+
     super.initState();
   }
 
